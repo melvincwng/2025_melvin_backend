@@ -1,0 +1,2 @@
+org.glassfish.jersey.servlet.init.JerseyServletContainerInitializer
+ch.qos.logback.classic.servlet.LogbackServletContainerInitializer

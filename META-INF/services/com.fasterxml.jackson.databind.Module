@@ -1,0 +1,7 @@
+com.fasterxml.jackson.datatype.guava.GuavaModule
+com.fasterxml.jackson.datatype.jsr310.JavaTimeModule
+com.fasterxml.jackson.datatype.jdk8.Jdk8Module
+com.fasterxml.jackson.module.paramnames.ParameterNamesModule
+com.fasterxml.jackson.module.blackbird.BlackbirdModule
+
+com.fasterxml.jackson.module.jakarta.xmlbind.JakartaXmlBindAnnotationModule

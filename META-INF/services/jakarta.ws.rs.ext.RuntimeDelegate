@@ -1,0 +1,2 @@
+org.glassfish.jersey.internal.RuntimeDelegateImpl
+org.glassfish.jersey.server.internal.RuntimeDelegateImpl

@@ -1,0 +1,11 @@
+io.dropwizard.core.server.ServerFactory
+io.dropwizard.logging.common.AppenderFactory
+io.dropwizard.logging.common.LoggingFactory
+io.dropwizard.logging.common.filter.FilterFactory
+io.dropwizard.logging.common.layout.DiscoverableLayoutFactory
+io.dropwizard.metrics.common.ReporterFactory
+io.dropwizard.jetty.ConnectorFactory
+io.dropwizard.health.HealthFactory
+io.dropwizard.health.response.HealthResponderFactory
+io.dropwizard.health.response.HealthResponseProviderFactory
+io.dropwizard.request.logging.RequestLogFactory
